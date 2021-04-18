@@ -16,7 +16,7 @@ const NotFound = () => (
           fontSize: "128px",
           color: "var(--primary-color)"
         }}/>
-        <h1>Oops we did not expect that to happen</h1>
+        <h1>Oops we did not expect that to happen!</h1>
         <p>Have you wondered into the unknow. Let us help you, Please take a look at below options</p>
       </header>
       <Link to="/" className="button"><RiArrowLeftSLine className="icon -left"/>Back to Homepage</Link>
